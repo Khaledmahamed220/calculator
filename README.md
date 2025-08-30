@@ -1,10 +1,8 @@
 # calculator
 A simple Python calculator app that performs basic operations (add, subtract, multiply, divide).
 # 🧮  Python Calculator
-
 num1 = float(input("First number: "))
 num2 = float(input("Second number: "))
-
 print("\n----------------------------")
 print("Results:")
 print("----------------------------")
@@ -13,7 +11,6 @@ print("Subtract (-):    " + str(num1 - num2))
 print("Multiply (*):    " + str(num1 * num2))
 print("Divide (/):      " + str(num1 / num2))
 print("Modulus (%):     " + str(num1 % num2))
-
 This is my first Python project 
 It's a simple calculator that performs **basic mathematical operations**.
 
